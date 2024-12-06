@@ -14,6 +14,6 @@ Technologies Used:
 
 Excel: Data cleaning, transformation, and analysis.
 PowerPoint: Visual storytelling for presenting key findings.
-Power BI (Optional): Dashboard creation for dynamic insights (if applicable).
+
 Impact:
 This analysis provides businesses with a framework to optimize inventory strategies, improve operational efficiency, and enhance customer satisfaction, ultimately driving growth and profitability.
